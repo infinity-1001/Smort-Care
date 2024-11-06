@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767583587281",
+    "project_id": "smort-care",
+    "storage_bucket": "smort-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767583587281:android:4964302f13b2ec2eb9eef0",
+        "android_client_info": {
+          "package_name": "com.example.smort_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxhAhUlpxYdIJ6w6V1RWWMExyeZOYoeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
